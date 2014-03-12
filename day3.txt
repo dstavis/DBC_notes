@@ -1,0 +1,22 @@
+Day 3 Morning Meeting
+Location: The Cave
+Teachers: Brick & Strand
+Cohort: Fiery Skippers
+
+LECTURE
+
+PRIMITIVE DATA TYPES	
+Boolean
+Integer
+String
+Float (long, large numbers)
+Fixnum (bigger than int)
+Symbol (can't be ints)
+
+DATA STRUCTURES
+Hash
+Array
+Custom object
+Set
+Matrix
+
